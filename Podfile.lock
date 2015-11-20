@@ -1,0 +1,19 @@
+PODS:
+  - Alamofire (3.1.2)
+  - DGElasticPullToRefresh (1.0.3)
+  - Kingfisher (1.8.2)
+  - SnapKit (0.18.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - DGElasticPullToRefresh
+  - Kingfisher (~> 1.8)
+  - SnapKit
+
+SPEC CHECKSUMS:
+  Alamofire: 7c16ca65f3c7e681fd925fd7f2dec7747ff96855
+  DGElasticPullToRefresh: 040f39ae69840b3261d163fe6735c5901bf851e9
+  Kingfisher: b39315e9dbed7e8ffe73a9ca1be2ee006d1d57e4
+  SnapKit: e1f090a6d47b1dd4bd89b73f72b6746a7835ef3c
+
+COCOAPODS: 0.39.0
